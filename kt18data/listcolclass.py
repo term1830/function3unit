@@ -4,7 +4,7 @@ from pandas import DataFrame
 
 '''attempt at class, test list and dataframe are inside
 this creates a new dataframe and also locks the df and 
-list into the class, also creates a new dataframe 
+list into the class, also creates a new dataframe.
 '''
 test_list = [2,5,1,76,8,2,3,7,2]
 
